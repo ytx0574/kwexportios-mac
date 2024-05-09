@@ -1,0 +1,6 @@
+framework module Pods_kuwo_export {
+  umbrella header "Pods-kuwo_export-umbrella.h"
+
+  export *
+  module * { export * }
+}
